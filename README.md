@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @federicoguida
-<img align="right" alt="GIF" src="https://github.com/federicoguida/federicoguida/blob/488cd4b38730c037acdc4f5c251dd26d409fb10e/20ed06db283022697f34602fdba35ae3.gif?raw=True" width="500" height="400" />
+<img align="center" alt="GIF" src="https://github.com/federicoguida/federicoguida/blob/03270dc8be98e46d13c742a7a8104601e4adc208/1_hwR_VDaY0wA5J4aPL6j9Zw.gif?raw=True" width="300" height="200" />
