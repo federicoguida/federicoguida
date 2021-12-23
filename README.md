@@ -10,4 +10,4 @@
   <img align="left" alt="Federico Guida Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
-[<img src="https://img.shields.io/badge/Email-federicoguida29%40gmail.com-green" style="padding-top: 10px">](mailto:federicoguida29@gmail.com)
+[<img src="https://img.shields.io/badge/Email-federicoguida29%40gmail.com-green" style="padding-top: 100px">](mailto:federicoguida29@gmail.com)
