@@ -7,3 +7,10 @@
 <a href="https://www.linkedin.com/in/federico-guida-42b7271b8/">
   <img align="left" alt="Federico Guida LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+### Certifications :
+<a href="https://www.credential.net/5e5052f4-fdf6-468b-a988-621215555298">
+  <img align="left" alt="Federico Guida LinkedIN" width="125px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65174735" />
+</a>
+<a href="https://www.credential.net/147aee92-02d8-4571-a2f9-95f61a2ba316">
+  <img align="left" alt="Federico Guida LinkedIN" width="125px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48775271" />
+</a>
